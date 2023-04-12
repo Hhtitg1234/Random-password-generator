@@ -10,7 +10,7 @@ while w == True:
     print("""Select the desired option:
     1) Number password
     2) Number password with letters
-    3) close program""")
+    3) Close program""")
     a = input("Enter the desired option number here: ")
     print()
 
